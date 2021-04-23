@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  background-image: url("https://cdn.statically.io/img/hdqwalls.com/wallpapers/space-minimalism-hd-4k.jpg");
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.text {
+  color: ghostwhite;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000;
+  margin-top: 50px;
+  margin-bottom: 15px;
+}
+
+.result {
+  color: ghostwhite;
+}
+
+.gridItems {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
