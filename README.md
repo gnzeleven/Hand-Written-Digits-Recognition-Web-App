@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 ## Model Architecture
 
-![Architecture](images/bettercnn.png)
+![Architecture](images/bettercnn.PNG)
 
 ## Demo
 
