@@ -60,7 +60,7 @@ pip install -r requirements.txt
 ## Demo
 
 ![Demo](images/demo.gif)
-
+<!--
 ## Todo
 
 1. Migrate the SQLite database to PostgreSQL database
@@ -68,7 +68,7 @@ pip install -r requirements.txt
 3. Make the predictions part outside of the http request/response cycle by introducing Advanced Message Queuing Protocol (AMQP)
 4. Create a container image of the app that is lightweight, standalone, executable form that packages up code and all its dependencies using Docker
 5. Deploy the app in a cloud platform (heroku or digital ocean or aws)
-
+-->
 ## Contributing
 
 Pull requests are welcome. If you have any inkling of how to accomplish the missions in the todo section, you have my attention.
