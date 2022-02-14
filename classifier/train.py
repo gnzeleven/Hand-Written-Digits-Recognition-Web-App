@@ -6,8 +6,8 @@ import matplotlib.pyplot as plt
 from torch.utils.data import DataLoader
 from torchsummary import summary
 
-from .model import BetterCNN
-from .loadmnist import LoadMNIST
+from model import BetterCNN
+from loadmnist import LoadMNIST
 
 def load_model():
     '''
